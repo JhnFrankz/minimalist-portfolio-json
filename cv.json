@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
+    "name": "Jhan Espinoza",
+    "label": "Full Stack Developer",
+    "image": "https://avatars.githubusercontent.com/u/49761835?v=4",
+    "email": "jhnfrankz@gmail.com",
+    "phone": "+51 915006676",
     "url": "https://johndoe.com",
     "summary": "A summary of John Doe…",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Calle Ica 249",
+      "postalCode": "11401",
+      "city": "Nasca",
+      "countryCode": "PE",
+      "region": "Ica"
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "username": "JhnFrankz",
+      "url": "https://twitter.com/JhnFrankz"
     }]
   },
   "work": [{
     "name": "Company",
-    "position": "President",
+    "position": "Assistant Technical Support",
     "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
+    "startDate": "2021-12-05",
+    "endDate": "2012-03-17",
     "summary": "Description…",
     "highlights": [
       "Started the company"
