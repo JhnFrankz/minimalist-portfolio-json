@@ -213,12 +213,18 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/"
+      "name": "Portfolio",
+      "isActive": true,
+      "description": "Portafolio personal para mostrar mis habilidades y proyectos.",
+      "highlights": ["En desarrollo", "Responsive Design", "SEO Optimized"],
+      "url": "https://dainty-toffee-0ab782.netlify.app/"
+    },
+    {
+      "name": "AluraGeek E-commerce",
+      "isActive": true,
+      "description": "E-commerce de venta de productos tecnológicos. Proyecto final del curso de Alura.",
+      "highlights": ["Consumo de API", "Carrito de Compras"],
+      "url": "https://jhnfrankz.github.io/Challenge-AluraGeek-Ecommerce/"
     }
   ]
 }
