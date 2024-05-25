@@ -34,12 +34,12 @@
   },
   "work": [
     {
-      "name": "Company",
-      "position": "Assistant Technical Support",
-      "url": "https://company.com",
-      "startDate": "2021-12-05",
-      "endDate": "2012-03-17",
-      "summary": "Description…",
+      "name": "Farmagro",
+      "position": "Asistente de Soporte Técnico",
+      "url": "http://www.farmagro.com.pe/",
+      "startDate": "2021-12-07",
+      "endDate": "2022-03-20",
+      "summary": "- Resolución de problemas de software y hardware en dispositivos - Recopilación y procesamiento de información en la web de la empresa. - Evaluación de funcionalidad de la web, envío de errores y sugerencias de mejora para optimizar la experiencia del usuario.",
       "highlights": ["Started the company"]
     }
   ],
@@ -93,9 +93,104 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "HTML",
       "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Diseño Web", "Animaciones", "Flexbox", "Grid"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": ["DOM Manipulation", "ES6+", "API Integration", "Asynchronous Programming"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Componentes", "Hooks", "State Management"]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Intermediate",
+      "keywords": ["Componentes", "Vuex", "Directivas"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced",
+      "keywords": ["Diseño Responsive", "Componentes", "Utilidades"]
+    },
+    {
+      "name": "Sass",
+      "level": "Advanced",
+      "keywords": ["Preprocesador CSS", "Variables", "Mixins"]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": ["Control de Versiones", "Branching", "Collaboración"]
+    },
+    {
+      "name": "Webpack",
+      "level": "Intermediate",
+      "keywords": ["Module Bundler", "Performance Optimization", "Loaders"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["Typed JavaScript", "Interfaces", "Generics"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": ["Backend Development", "APIs", "Asynchronous Programming"]
+    },
+    {
+      "name": "Express.js",
+      "level": "Intermediate",
+      "keywords": ["Web Framework", "Middleware", "Routing"]
+    },
+    {
+      "name": "GraphQL",
+      "level": "Beginner",
+      "keywords": ["API Queries", "Mutations", "Schema Design"]
+    },
+    {
+      "name": "Redux",
+      "level": "Intermediate",
+      "keywords": ["State Management", "Reducers", "Actions"]
+    },
+    {
+      "name": "RESTful APIs",
+      "level": "Advanced",
+      "keywords": ["API Design", "CRUD Operations", "HTTP Methods"]
+    },
+    {
+      "name": "Jest",
+      "level": "Intermediate",
+      "keywords": ["Testing", "Unit Tests", "Mocking"]
+    },
+    {
+      "name": "Cypress",
+      "level": "Beginner",
+      "keywords": ["End-to-End Testing", "Integration Tests", "Automation"]
+    },
+    {
+      "name": "Responsive Design",
+      "level": "Advanced",
+      "keywords": ["Mobile First", "Media Queries", "Flexbox"]
+    },
+    {
+      "name": "Performance Optimization",
+      "level": "Intermediate",
+      "keywords": ["Lazy Loading", "Code Splitting", "Minification"]
+    },
+    {
+      "name": "Accessibility",
+      "level": "Intermediate",
+      "keywords": ["WCAG", "ARIA", "Screen Readers"]
     }
   ],
   "languages": [
