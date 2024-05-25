@@ -225,6 +225,13 @@
       "description": "E-commerce de venta de productos tecnológicos. Proyecto final del curso de Alura.",
       "highlights": ["Consumo de API", "Carrito de Compras"],
       "url": "https://jhnfrankz.github.io/Challenge-AluraGeek-Ecommerce/"
+    },
+    {
+      "name": "Encriptador de texto",
+      "isActive": true,
+      "description": "Encriptador de texto  para encriptar y desencriptar mensajes.",
+      "highlights": ["Cifrado de texto", "Descifrado de texto"],
+      "url": "https://jhnfrankz.github.io/Encriptador-challenge/"
     }
   ]
 }
