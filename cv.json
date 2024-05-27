@@ -56,14 +56,14 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "Universidad San Luis Gonzaga",
+      "url": "https://unica.edu.pe/",
+      "area": "Ingeniería de Sistemas",
+      "studyType": "Ingeniería",
+      "startDate": "2019-04-04",
+      "endDate": "2014-12-13",
+      "score": "15.5",
+      "courses": ["Curso de Desarrollo Web", "Curso de Programación en C++", "Curso de Programación en Java", "Curso de Programación en Python", "Curso de Programación en JavaScript", "Curso de Programación en PHP", "Curso de Programación en C#"]
     }
   ],
   "awards": [
