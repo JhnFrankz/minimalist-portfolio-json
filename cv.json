@@ -95,102 +95,79 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Diseño Web", "Animaciones", "Flexbox", "Grid"]
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
     },
     {
       "name": "JavaScript",
-      "level": "Advanced",
-      "keywords": ["DOM Manipulation", "ES6+", "API Integration", "Asynchronous Programming"]
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
     },
     {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": ["Componentes", "Hooks", "State Management"]
-    },
-    {
-      "name": "Vue.js",
-      "level": "Intermediate",
-      "keywords": ["Componentes", "Vuex", "Directivas"]
-    },
-    {
-      "name": "Bootstrap",
-      "level": "Advanced",
-      "keywords": ["Diseño Responsive", "Componentes", "Utilidades"]
-    },
-    {
-      "name": "Sass",
-      "level": "Advanced",
-      "keywords": ["Preprocesador CSS", "Variables", "Mixins"]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": ["Control de Versiones", "Branching", "Collaboración"]
-    },
-    {
-      "name": "Webpack",
-      "level": "Intermediate",
-      "keywords": ["Module Bundler", "Performance Optimization", "Loaders"]
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
     },
     {
       "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": ["Typed JavaScript", "Interfaces", "Generics"]
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
     },
     {
-      "name": "Node.js",
-      "level": "Intermediate",
-      "keywords": ["Backend Development", "APIs", "Asynchronous Programming"]
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
     },
     {
-      "name": "Express.js",
-      "level": "Intermediate",
-      "keywords": ["Web Framework", "Middleware", "Routing"]
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
     },
     {
-      "name": "GraphQL",
-      "level": "Beginner",
-      "keywords": ["API Queries", "Mutations", "Schema Design"]
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
     },
     {
-      "name": "Redux",
-      "level": "Intermediate",
-      "keywords": ["State Management", "Reducers", "Actions"]
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
     },
     {
-      "name": "RESTful APIs",
-      "level": "Advanced",
-      "keywords": ["API Design", "CRUD Operations", "HTTP Methods"]
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
     },
     {
-      "name": "Jest",
-      "level": "Intermediate",
-      "keywords": ["Testing", "Unit Tests", "Mocking"]
-    },
-    {
-      "name": "Cypress",
-      "level": "Beginner",
-      "keywords": ["End-to-End Testing", "Integration Tests", "Automation"]
-    },
-    {
-      "name": "Responsive Design",
-      "level": "Advanced",
-      "keywords": ["Mobile First", "Media Queries", "Flexbox"]
-    },
-    {
-      "name": "Performance Optimization",
-      "level": "Intermediate",
-      "keywords": ["Lazy Loading", "Code Splitting", "Minification"]
-    },
-    {
-      "name": "Accessibility",
-      "level": "Intermediate",
-      "keywords": ["WCAG", "ARIA", "Screen Readers"]
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
     }
   ],
   "languages": [
