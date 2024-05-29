@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jhan Espinoza",
-    "label": "Full Stack Developer egresado la carrera de Ingeniería de Sistemas en la Universidad Nacional San Luis Gonzaga",
+    "label": "Full Stack Developer graduated in Systems Engineering from the Universidad Nacional San Luis Gonzaga",
     "image": "/me.webp",
     "email": "jhnfrankz@gmail.com",
     "phone": "+51 915006676",
     "url": "",
-    "summary": "+4 meses de experiencia como Asistente de Soporte Técnico. Actualmente estoy por terminar la carrera de Ingeniería de Sistemas. Vivo en Ica, Perú. Me encanta aprender cosas nuevas y siempre estoy buscando nuevos desafíos.",
+    "summary": "+4 months of experience as a Technical Support Assistant. I am currently about to finish my Systems Engineering degree. I live in Ica, Peru. I love learning new things and am always looking for new challenges.",
     "location": {
       "address": "Calle Ica 249",
       "postalCode": "11401",
@@ -35,11 +35,11 @@
   "work": [
     {
       "name": "Farmagro",
-      "position": "Asistente de Soporte Técnico",
+      "position": "Technical Support Assistant",
       "url": "http://www.farmagro.com.pe/",
       "startDate": "2021-12-07",
       "endDate": "2022-03-20",
-      "summary": "- Resolución de problemas de software y hardware en dispositivos - Recopilación y procesamiento de información en la web de la empresa. - Evaluación de funcionalidad de la web, envío de errores y sugerencias de mejora para optimizar la experiencia del usuario.",
+      "summary": "- Troubleshooting software and hardware issues on devices - Collecting and processing information on the company's website. - Evaluating website functionality, submitting bugs, and suggesting improvements to optimize user experience.",
       "highlights": ["Started the company"]
     }
   ],
@@ -58,12 +58,12 @@
     {
       "institution": "Universidad San Luis Gonzaga",
       "url": "https://unica.edu.pe/",
-      "area": "Ingeniería de Sistemas",
-      "studyType": "Ingeniería",
+      "area": "Systems Engineering",
+      "studyType": "Engineering",
       "startDate": "2019-04-04",
-      "endDate": "2014-12-13",
+      "endDate": "2024-12-13",
       "score": "15.5",
-      "courses": ["Curso de Desarrollo Web", "Curso de Programación en C++", "Curso de Programación en Java", "Curso de Programación en Python", "Curso de Programación en JavaScript", "Curso de Programación en PHP", "Curso de Programación en C#"]
+      "courses": ["Web Development Course", "C++ Programming Course", "Java Programming Course", "Python Programming Course", "JavaScript Programming Course", "PHP Programming Course", "C# Programming Course"]
     }
   ],
   "awards": [
@@ -96,77 +96,77 @@
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web Development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Databases", "SQL", "Data Storage", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Version Control", "Collaboration", "Source Code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Version Control", "Collaboration", "Source Code", "Git"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -192,23 +192,23 @@
     {
       "name": "Portfolio",
       "isActive": true,
-      "description": "Portafolio personal para mostrar mis habilidades y proyectos.",
-      "highlights": ["En desarrollo", "Responsive Design", "SEO Optimized"],
+      "description": "Personal portfolio to showcase my skills and projects.",
+      "highlights": ["In development", "Responsive Design", "SEO Optimized"],
       "url": "https://dainty-toffee-0ab782.netlify.app/",
       "github": "https://github.com/JhnFrankz/porfolio-dev"
     },
     {
       "name": "AluraGeek E-commerce",
       "isActive": true,
-      "description": "E-commerce de venta de productos tecnológicos. Proyecto final del curso de Alura.",
-      "highlights": ["Consumo de API", "Carrito de Compras"],
+      "description": "E-commerce for selling tech products. Final project of the Alura course.",
+      "highlights": ["API Consumption", "Shopping Cart"],
       "url": "https://jhnfrankz.github.io/Challenge-AluraGeek-Ecommerce/"
     },
     {
-      "name": "Encriptador de texto",
+      "name": "Text Encryptor",
       "isActive": true,
-      "description": "Encriptador de texto  para encriptar y desencriptar mensajes.",
-      "highlights": ["Cifrado de texto", "Descifrado de texto"],
+      "description": "Text encryptor for encrypting and decrypting messages.",
+      "highlights": ["Text Encryption", "Text Decryption"],
       "url": "https://jhnfrankz.github.io/Encriptador-challenge/"
     }
   ]
