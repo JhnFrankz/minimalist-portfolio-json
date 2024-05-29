@@ -217,7 +217,8 @@
       "isActive": true,
       "description": "Portafolio personal para mostrar mis habilidades y proyectos.",
       "highlights": ["En desarrollo", "Responsive Design", "SEO Optimized"],
-      "url": "https://dainty-toffee-0ab782.netlify.app/"
+      "url": "https://dainty-toffee-0ab782.netlify.app/",
+      "github": "https://github.com/JhnFrankz/porfolio-dev"
     },
     {
       "name": "AluraGeek E-commerce",
