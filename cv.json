@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jhan Espinoza",
-    "label": "Full Stack Developer egresado la carrera de Ingeniería de Sistemas en la Universidad Nacional San Luis Gonzaga",
+    "label": "Full Stack Developer egresado de la carrera de Ingeniería de Sistemas en la Universidad Nacional San Luis Gonzaga",
     "image": "/me.webp",
     "email": "jhnfrankz@gmail.com",
     "phone": "+51 915006676",
@@ -12,7 +12,7 @@
       "postalCode": "11401",
       "city": "Nasca",
       "countryCode": "PE",
-      "region": "Ica"
+      "region": "Ica, Perú"
     },
     "profiles": [
       {
@@ -40,7 +40,20 @@
       "startDate": "2021-12-07",
       "endDate": "2022-03-20",
       "summary": "- Resolución de problemas de software y hardware en dispositivos - Recopilación y procesamiento de información en la web de la empresa. - Evaluación de funcionalidad de la web, envío de errores y sugerencias de mejora para optimizar la experiencia del usuario.",
-      "highlights": ["Started the company"]
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "DevDatep",
+      "position": "Desarrollador Laravel Backend",
+      "url": "https://devdatep.com/",
+      "startDate": "2024-06-26",
+      "endDate": "2024-10-02",
+      "summary": "- Diseñé e implementé nuevos controladores en Laravel siguiendo buenas prácticas de arquitectura, mejorando la escalabilidad y mantenibilidad de la aplicación. - Revisé y depuré APIs existentes, documentando errores, implementando soluciones y actualizando la estructura de los endpoints. - Documenté detalladamente cada cambio en las APIs y en la base de código usando herramientas como Trello, manteniendo la trazabilidad y facilitando la colaboración dentro del equipo.",
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "volunteer": [
@@ -51,7 +64,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "education": [
@@ -63,7 +78,15 @@
       "startDate": "2019-04-04",
       "endDate": "2014-12-13",
       "score": "15.5",
-      "courses": ["Curso de Desarrollo Web", "Curso de Programación en C++", "Curso de Programación en Java", "Curso de Programación en Python", "Curso de Programación en JavaScript", "Curso de Programación en PHP", "Curso de Programación en C#"]
+      "courses": [
+        "Curso de Desarrollo Web",
+        "Curso de Programación en C++",
+        "Curso de Programación en Java",
+        "Curso de Programación en Python",
+        "Curso de Programación en JavaScript",
+        "Curso de Programación en PHP",
+        "Curso de Programación en C#"
+      ]
     }
   ],
   "awards": [
@@ -96,77 +119,107 @@
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -179,7 +232,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -193,7 +249,11 @@
       "name": "Portfolio",
       "isActive": true,
       "description": "Portafolio personal para mostrar mis habilidades y proyectos.",
-      "highlights": ["En desarrollo", "Responsive Design", "SEO Optimized"],
+      "highlights": [
+        "En desarrollo",
+        "Responsive Design",
+        "SEO Optimized"
+      ],
       "url": "https://dainty-toffee-0ab782.netlify.app/",
       "github": "https://github.com/JhnFrankz/porfolio-dev"
     },
@@ -201,14 +261,20 @@
       "name": "AluraGeek E-commerce",
       "isActive": true,
       "description": "E-commerce de venta de productos tecnológicos. Proyecto final del curso de Alura.",
-      "highlights": ["Consumo de API", "Carrito de Compras"],
+      "highlights": [
+        "Consumo de API",
+        "Carrito de Compras"
+      ],
       "url": "https://jhnfrankz.github.io/Challenge-AluraGeek-Ecommerce/"
     },
     {
       "name": "Encriptador de texto",
       "isActive": true,
       "description": "Encriptador de texto  para encriptar y desencriptar mensajes.",
-      "highlights": ["Cifrado de texto", "Descifrado de texto"],
+      "highlights": [
+        "Cifrado de texto",
+        "Descifrado de texto"
+      ],
       "url": "https://jhnfrankz.github.io/Encriptador-challenge/"
     }
   ]
