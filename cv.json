@@ -6,7 +6,7 @@
     "email": "jhnfrankz@gmail.com",
     "phone": "+51 915006676",
     "url": "https://66302f264ee4ca4a81138b56--dainty-toffee-0ab782.netlify.app/",
-    "summary": "+4 meses de experiencia como Asistente de Soporte Técnico. Actualmente estoy por terminar la carrera de Ingeniería de Sistemas. Vivo en Ica, Perú. Me encanta aprender cosas nuevas y siempre estoy buscando nuevos desafíos.",
+    "summary": "+6 meses de experiencia como Desarrollador Backend y Asistente de Soporte Técnico. Egresado de Ingeniería de Sistemas. Vivo en Ica, Perú. Me encanta aprender cosas nuevas y siempre estoy buscando nuevos desafíos.",
     "location": {
       "address": "Calle Ica 249",
       "postalCode": "11401",
@@ -220,6 +220,16 @@
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "SSR",
+        "Static Generation"
       ]
     }
   ],
